@@ -1,0 +1,4 @@
+ 
+# geoquizzy module
+
+::: geoquizzy.geoquizzy
